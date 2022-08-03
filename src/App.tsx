@@ -1,4 +1,4 @@
-import { Text } from "./components/Text/Index";
+import { Text } from "./components/text/Index";
 
 function App() {
   return (
